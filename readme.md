@@ -7,7 +7,6 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Topics] (#topics)
 
 ## General info
 This project is the code base for Java Refresher course. 
