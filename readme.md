@@ -1,4 +1,6 @@
-# h1 Java Refresher
+# Java Refresher
+
+## Code Editor : Visual Studio Code 
 
 ## Table of contents
 * [General info](#general-info)
@@ -13,8 +15,4 @@ We are following : https://www.w3schools.com/java/default.asp
 Project is created with:
 * Java SE 14.0.2
 
-
-## Visual Studio Code is our Text Editor
-
-
-## Topics	
+## Topics
