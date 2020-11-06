@@ -8,8 +8,9 @@
 * [Topics] (#topics)
 
 ## General info
-This project is the code base for Java Refresher course.
-We are following : https://www.w3schools.com/java/default.asp
+This project is the code base for Java Refresher course. 
+
+# We are following : https://www.w3schools.com/java/default.asp
 	
 ## Technologies
 Project is created with:
